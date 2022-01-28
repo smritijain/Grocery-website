@@ -1,0 +1,25 @@
+.App {
+  background-color: #fff;
+  height: 100%;
+}
+.carousal{
+  padding: 1rem 4rem;
+  padding-top: 90px;
+}
+.carousel-inner{
+  border-radius: 1rem;
+}
+.container{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.offerRow{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-height: 30vh;
+  width: 100%;
+  padding: 1rem 4rem;
+
+}
